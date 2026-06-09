@@ -222,7 +222,7 @@ const message = encodeURIComponent(
 
             <div className="flex flex-wrap gap-4">
               <a
-                href="https://starhela.com/register.php?ref=Luxiouske"
+                href="https://starhela.com/register.php?ref=mentorlameck"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-cyan-500 hover:bg-cyan-400 text-black px-8 py-4 rounded-2xl font-bold transition shadow-2xl shadow-cyan-500/40 inline-block"
@@ -336,7 +336,7 @@ const message = encodeURIComponent(
         </p>
 
         <a
-          href="https://starhela.com/register.php?ref=Luxiouske"
+          href="https://starhela.com/register.php?ref=mentorlameck"
           target="_blank"
           rel="noopener noreferrer"
           className="bg-pink-500 hover:bg-pink-400 text-white px-6 py-3 rounded-xl font-bold inline-block transition"
@@ -360,7 +360,7 @@ const message = encodeURIComponent(
         </p>
 
         <a
-          href="https://starhela.com/register.php?ref=Luxiouske"
+          href="https://starhela.com/register.php?ref=mentorlameck"
           target="_blank"
           rel="noopener noreferrer"
           className="bg-red-500 hover:bg-red-400 text-white px-6 py-3 rounded-xl font-bold inline-block transition"
@@ -384,7 +384,7 @@ const message = encodeURIComponent(
         </p>
 
         <a
-          href="https://starhela.com/register.php?ref=Luxiouske"
+          href="https://starhela.com/register.php?ref=mentorlameck"
           target="_blank"
           rel="noopener noreferrer"
           className="bg-purple-500 hover:bg-purple-400 text-white px-6 py-3 rounded-xl font-bold inline-block transition"
@@ -408,7 +408,7 @@ const message = encodeURIComponent(
         </p>
 
         <a
-          href="https://starhela.com/register.php?ref=Luxiouske"
+          href="https://starhela.com/register.php?ref=mentorlameck"
           target="_blank"
           rel="noopener noreferrer"
           className="bg-cyan-500 hover:bg-cyan-400 text-black px-6 py-3 rounded-xl font-bold inline-block transition"
@@ -451,7 +451,7 @@ const message = encodeURIComponent(
                 </p>
 
                 <a
-                  href="https://starhela.com/register.php?ref=Luxiouske"
+                  href="https://starhela.com/register.php?ref=mentorlameck"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-block bg-cyan-500 hover:bg-cyan-400 text-black px-5 py-3 rounded-xl font-bold transition"
@@ -756,7 +756,7 @@ const message = encodeURIComponent(
           </p>
 
           <a
-            href="https://starhela.com/register.php?ref=Luxiouske"
+            href="https://starhela.com/register.php?ref=mentorlameck"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-cyan-500 hover:bg-cyan-400 text-black px-10 py-5 rounded-2xl font-black text-lg transition shadow-2xl shadow-cyan-500/40 inline-block"
@@ -773,7 +773,7 @@ const message = encodeURIComponent(
 
   {/* WhatsApp (supports prefilled message) */}
   <a
-    href={`https://wa.me/254743991974?text=${message}`}
+    href={`https://wa.me/254729391538?text=${message}`}
     target="_blank"
     rel="noopener noreferrer"
     className="w-16 h-16 rounded-full bg-green-500 flex items-center justify-center text-3xl shadow-2xl hover:scale-110 transition"
@@ -793,7 +793,7 @@ const message = encodeURIComponent(
 
   {/* Messenger (limited: uses ref, not true message prefill) */}
   <a
-    href="https://m.me/LuxiousKe?ref=earn_join"
+    href="https://m.me/Spyro_brayo?ref=earn_join"
     target="_blank"
     rel="noopener noreferrer"
     className="w-16 h-16 rounded-full bg-blue-600 flex items-center justify-center text-3xl shadow-2xl hover:scale-110 transition"
